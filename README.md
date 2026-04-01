@@ -83,7 +83,7 @@ This ensures a comfortable cabin environment without manual intervention.
 This project demonstrates the practical implementation of an intelligent vehicle dashboard system by combining embedded systems and IoT. The use of a dual-microcontroller architecture improves system reliability, enables automation, and provides real-time monitoring, making it suitable for modern automotive applications.
 
 ## Circuit Diagram
-![Circuit](Circuit/circuit.png)
+![Circuit](Circuits/circuit.png)
 
 ## Output
-![Output](Circuit/output.png)
+![Output](Circuits/output.png)
